@@ -1,0 +1,10 @@
+Timestamp	CPU Usage (%)	Memory Usage (%)	Disk Usage (%)
+2023-12-15 00:52:37					19
+Timestamp	CPU Usage (%)	Memory Usage (%)	Disk Usage (%)
+2023-12-15 00:56:35					18
+Timestamp	CPU Usage (%)	Memory Usage (%)	Disk Usage (%)
+2023-12-15 00:56:49	2.46		177.153.79		18
+Timestamp	CPU Usage (%)	Memory Usage (%)	Disk Usage (%)
+2023-12-15 00:57:09	9.95		175.161.78		18
+Timestamp	CPU Usage (%)	Memory Usage (%)	Disk Usage (%)
+2023-12-15 00:58:51	6.13		162.7715.52		18
